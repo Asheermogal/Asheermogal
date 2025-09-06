@@ -8,8 +8,9 @@
 - **LLM/NLP & Retrieval** — HF Transformers, PEFT (**LoRA/QLoRA**), prompt engineering, function calling, embeddings/RAG; built evaluation with accuracy/F1/latency & cost tracking.  
 - **Data Engineering / Analyst** — **pandas, NumPy, scikit-learn, PyTorch**, **SQL (MySQL, SQL Server)**; clean ETL, feature stores, profiling, A/B-like backtests, KPI rollups; **GitHub Actions** CI; **AWS/GCP**; **GIS** (ArcGIS Pro/QGIS).
 
-**Open to:** **Data Scientist** · **AI Engineer** · **Data Analyst** · **ML Engineer**
-**Location:** Hyattsville, MD · **Email:** asheermogal786@gmail.com · **LinkedIn:** /in/asheermogal786
+- **Open to:** **Data Scientist** · **AI Engineer** · **Data Analyst** · **ML Engineer**
+
+- **Location:** Hyattsville, MD · **Email:** asheermogal786@gmail.com · **LinkedIn:** https://www.linkedin.com/in/asheermogal/
 
 
 
